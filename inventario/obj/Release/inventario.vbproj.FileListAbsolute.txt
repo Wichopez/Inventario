@@ -1,0 +1,10 @@
+c:\users\llopez.tecnico0\documents\visual studio 2012\Projects\inventario\inventario\bin\Release\inventario.exe.config
+c:\users\llopez.tecnico0\documents\visual studio 2012\Projects\inventario\inventario\bin\Release\inventario.exe
+c:\users\llopez.tecnico0\documents\visual studio 2012\Projects\inventario\inventario\bin\Release\inventario.pdb
+c:\users\llopez.tecnico0\documents\visual studio 2012\Projects\inventario\inventario\bin\Release\inventario.xml
+c:\users\llopez.tecnico0\documents\visual studio 2012\Projects\inventario\inventario\obj\Release\inventario.Form1.resources
+c:\users\llopez.tecnico0\documents\visual studio 2012\Projects\inventario\inventario\obj\Release\inventario.Resources.resources
+c:\users\llopez.tecnico0\documents\visual studio 2012\Projects\inventario\inventario\obj\Release\inventario.vbproj.GenerateResource.Cache
+c:\users\llopez.tecnico0\documents\visual studio 2012\Projects\inventario\inventario\obj\Release\inventario.exe
+c:\users\llopez.tecnico0\documents\visual studio 2012\Projects\inventario\inventario\obj\Release\inventario.xml
+c:\users\llopez.tecnico0\documents\visual studio 2012\Projects\inventario\inventario\obj\Release\inventario.pdb

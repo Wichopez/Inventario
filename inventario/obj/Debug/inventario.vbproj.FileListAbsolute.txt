@@ -1,0 +1,12 @@
+c:\users\llopez.tecnico0\documents\visual studio 2012\Projects\inventario\inventario\bin\Debug\inventario.exe.config
+c:\users\llopez.tecnico0\documents\visual studio 2012\Projects\inventario\inventario\bin\Debug\inventario.exe
+c:\users\llopez.tecnico0\documents\visual studio 2012\Projects\inventario\inventario\bin\Debug\inventario.pdb
+c:\users\llopez.tecnico0\documents\visual studio 2012\Projects\inventario\inventario\bin\Debug\inventario.xml
+c:\users\llopez.tecnico0\documents\visual studio 2012\Projects\inventario\inventario\obj\Debug\inventario.Form1.resources
+c:\users\llopez.tecnico0\documents\visual studio 2012\Projects\inventario\inventario\obj\Debug\inventario.Resources.resources
+c:\users\llopez.tecnico0\documents\visual studio 2012\Projects\inventario\inventario\obj\Debug\inventario.vbproj.GenerateResource.Cache
+c:\users\llopez.tecnico0\documents\visual studio 2012\Projects\inventario\inventario\obj\Debug\inventario.exe
+c:\users\llopez.tecnico0\documents\visual studio 2012\Projects\inventario\inventario\obj\Debug\inventario.xml
+c:\users\llopez.tecnico0\documents\visual studio 2012\Projects\inventario\inventario\obj\Debug\inventario.pdb
+C:\Users\llopez.TECNICO0\Documents\Visual Studio 2012\Projects\inventario\inventario\obj\Debug\inventario.vbprojResolveAssemblyReference.cache
+C:\Users\llopez.TECNICO0\Documents\Visual Studio 2012\Projects\inventario\inventario\obj\Debug\inventario.vbproj.CoreCompileInputs.cache
