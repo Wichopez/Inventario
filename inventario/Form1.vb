@@ -37,8 +37,6 @@ Public Class Form1
         txtSO.Clear()
         txtversionOffice.Clear()
         cbTipo.Items.Clear()
-
-
     End Sub
 
     Private Sub btnsalir_Click(sender As Object, e As EventArgs) Handles btnsalir.Click
