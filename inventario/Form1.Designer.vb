@@ -64,8 +64,6 @@ Partial Class Form1
         Me.Label19 = New System.Windows.Forms.Label()
         Me.cbDepartamento = New System.Windows.Forms.ComboBox()
         Me.cbTipo = New System.Windows.Forms.ComboBox()
-        Me.txtComentario = New System.Windows.Forms.TextBox()
-        Me.Label20 = New System.Windows.Forms.Label()
         CType(Me.erroricono, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -396,30 +394,12 @@ Partial Class Form1
         Me.cbTipo.Size = New System.Drawing.Size(121, 21)
         Me.cbTipo.TabIndex = 43
         '
-        'txtComentario
-        '
-        Me.txtComentario.Location = New System.Drawing.Point(582, 428)
-        Me.txtComentario.Name = "txtComentario"
-        Me.txtComentario.Size = New System.Drawing.Size(100, 20)
-        Me.txtComentario.TabIndex = 44
-        '
-        'Label20
-        '
-        Me.Label20.AutoSize = True
-        Me.Label20.Location = New System.Drawing.Point(579, 397)
-        Me.Label20.Name = "Label20"
-        Me.Label20.Size = New System.Drawing.Size(63, 13)
-        Me.Label20.TabIndex = 45
-        Me.Label20.Text = "Comentario:"
-        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.Window
         Me.ClientSize = New System.Drawing.Size(901, 684)
-        Me.Controls.Add(Me.Label20)
-        Me.Controls.Add(Me.txtComentario)
         Me.Controls.Add(Me.cbTipo)
         Me.Controls.Add(Me.cbDepartamento)
         Me.Controls.Add(Me.txtlicenciaOffice)
@@ -505,7 +485,5 @@ Partial Class Form1
     Friend WithEvents Label19 As System.Windows.Forms.Label
     Friend WithEvents cbTipo As System.Windows.Forms.ComboBox
     Friend WithEvents cbDepartamento As System.Windows.Forms.ComboBox
-    Friend WithEvents Label20 As System.Windows.Forms.Label
-    Friend WithEvents txtComentario As System.Windows.Forms.TextBox
 
 End Class
