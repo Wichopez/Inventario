@@ -355,6 +355,9 @@ Partial Class Form1
         Me.btnsalir.TabIndex = 38
         Me.btnsalir.UseVisualStyleBackColor = False
         '
+        'ttmensaje
+        '
+        '
         'erroricono
         '
         Me.erroricono.ContainerControl = Me

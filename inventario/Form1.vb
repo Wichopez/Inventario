@@ -84,4 +84,7 @@ Public Class Form1
         End If
     End Sub
 
+    Private Sub ttmensaje_Popup(sender As Object, e As PopupEventArgs) Handles ttmensaje.Popup
+
+    End Sub
 End Class
